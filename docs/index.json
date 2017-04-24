@@ -50,6 +50,9 @@
                     "name": "Datetime picker",
                     "url": "http://www.malot.fr/bootstrap-datetimepicker"
                 }, {
+                    "name": "Date Range Picker",
+                    "url": "https://github.com/dangrossman/bootstrap-daterangepicker/"
+                }, {
                     "name": "FontAwesome",
                     "url": "http://fortawesome.github.io/Font-Awesome/"
                 }, {
@@ -1081,6 +1084,22 @@
                     "name": "使用输入框"
                 }, {
                     "name": "用法"
+                }],
+                "filter": "riqixuanze rqxz time shijian sj"
+            }, {
+                "id": "daterangepicker",
+                "icon": "icon-calendar",
+                "desc": "为文本框提供日期范围选择功能【HY新增】",
+                "name": "日期范围选择[HY]",
+                "update": "1.6.0",
+                "topics": [{
+                    "name": "日期范围两端独立"
+                }, {
+                    "name": "日期范围两端联动"
+                }, {
+                    "name": "昨天、一周、一月"
+                }, {
+                    "name": "单独日期选择"
                 }],
                 "filter": "riqixuanze rqxz time shijian sj"
             }, {
