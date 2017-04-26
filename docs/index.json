@@ -1103,6 +1103,14 @@
                 }],
                 "filter": "riqixuanze rqxz time shijian sj"
             }, {
+                "id": "moment",
+                "icon": "icon-cogs",
+                "desc": "日期处理类库【HY新增】",
+                "name": "日期处理类库[HY]",
+                "update": "1.6.0",
+                "topics": [],
+                "filter": "riqixuanze rqxz time shijian sj"
+            }, {
                 "id": "chosen",
                 "icon": "icon-search",
                 "desc": "提供数据选择和筛选功能",

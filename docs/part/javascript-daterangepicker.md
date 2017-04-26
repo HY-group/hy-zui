@@ -20,7 +20,7 @@ filter: riqixuanze rqxz
 ```
 
 ```html
-<script src="zui/lib/moment.min.js"></script>
+<script src="zui/lib/moment/moment.min.js"></script>
 <script src="zui/lib/daterangepicker/daterangepicker.js"></script>
 <script src="zui/lib/daterangepicker/daterangepicker-hy-extend.js"></script>
 ```
@@ -241,7 +241,7 @@ function onPageLoad() {
     onPageClose();
 }
 function afterPageLoad() {
-    $.getScript('dist/lib/daterangepicker/moment.min.js', function() {
+    $.getScript('dist/lib/moment/moment.min.js', function() {
         $.getScript('dist/lib/daterangepicker/daterangepicker.js', function() {
             $.getScript('dist/lib/daterangepicker/daterangepicker-hy-extend.js', function() {
                init();
